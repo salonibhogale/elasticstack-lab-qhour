@@ -11,7 +11,7 @@ Clone this repo to any path at your local machine
 
 Run docker-compose:
 
-cd elasticstack-lab-qhour
+cd elasticstack-lab-qhour . 
 docker-compose up
 
 After build process finishes you will be able to enter Kibana and see some sample parliamentary questions data
